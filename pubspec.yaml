@@ -1,0 +1,28 @@
+name: e2517
+description: A Flutter mobile app using bloc pattern with Firebase Realtime, Firebase authentication, FCM (Push notifications) and Cloud functions.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  rxdart: ^0.22.0
+  http:
+  firebase_messaging: ^6.0.15
+  shared_preferences:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+ 
+  assets:
+    - assets/
