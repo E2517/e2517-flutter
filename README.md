@@ -14,6 +14,13 @@ as JavaScript for the web and Intel x64 for desktop devices.
 
 ## e2517
 
+:sparkles: **Superheroes** :sparkles:
+Flutter mobile app with login, register, push notifications and cloud functions.
+- [x] Firebase Authentication
+- [x] Firebase Database RealTime
+- [x] Firebase FCM (Push Notifications)
+- [x] Firebase Cloud functions
+
 ![flutter image login][] ![flutter image superheroe][]
 
 [flutter logo]: https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png
