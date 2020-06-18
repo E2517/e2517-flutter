@@ -23,9 +23,17 @@ Flutter mobile app with login, register, push notifications and cloud functions.
 
 ![flutter image login][] ![flutter image superheroe][]
 
+## Build and release an Android app
+
+[Flutter link]
+
+![bundle-apk][]
+
 [flutter logo]: https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png
 [flutter.dev]: https://flutter.dev
 [dart platform diagram]: https://github.com/flutter/website/blob/master/src/images/homepage/dart-diagram-small.png
 [cloud functions]: https://github.com/E2517/e2517CloudFunctions
 [flutter image login]: http://achoweb.es/wp-content/uploads/2020/06/login.png
 [flutter image superheroe]: http://achoweb.es/wp-content/uploads/2020/06/superheroe.png
+[bundle-apk]: http://achoweb.es/wp-content/uploads/2020/06/apk.jpg
+[Flutter link]: https://flutter.dev/docs/deployment/android
