@@ -21,6 +21,8 @@ Flutter mobile app with login, register, push notifications and cloud functions.
 - [x] Firebase FCM (Push Notifications)
 - [x] Firebase Cloud functions
 
+* Cloud Functions with Node.js 
+
 ![flutter image login][] ![flutter image superheroe][]
 
 ## Build and release an Android app
