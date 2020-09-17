@@ -24,7 +24,7 @@ Flutter mobile app with login, register, push notifications and cloud functions.
 
 ![flutter image login][] ![flutter image superheroe][]
 
-## Build and release an Android app
+## Build and release an Android app (Google Play, Apple Store, App Center, Codemagic)
 
 [Flutter link]
 
