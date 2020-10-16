@@ -22,8 +22,6 @@ jobs:
         run: flutter pub upgrade
       - name: Install dependencies
         run: flutter pub get
-      - name: Flutter test
-        run: flutter test
       - name: Flutter build
         run: flutter build apk --debug --split-per-abi
       - name: Create a Release APK
