@@ -15,16 +15,19 @@ as JavaScript for the web and Intel x64 for desktop devices.
 
 :sparkles: **Superheroes** :sparkles:
 Flutter mobile app with login, register, push notifications and cloud functions.
+
 - [x] Firebase Authentication
 - [x] Firebase Database RealTime
 - [x] Firebase FCM (Push Notifications)
 - [x] Firebase Cloud functions
 
-* Cloud Functions with Node.js 
+* Cloud Functions with Node.js
 
 ![flutter image login][] ![flutter image superheroe][]
 
 ## Build and release an Android app (Google Play, Apple Store, App Center, Codemagic)
+
+Check [Flutter link]: https://flutter.dev/docs/deployment/android to create the file key.properties and sign the app for Android
 
 [Flutter link]
 
@@ -37,4 +40,4 @@ Flutter mobile app with login, register, push notifications and cloud functions.
 [flutter image login]: http://achoweb.es/wp-content/uploads/2020/06/login.png
 [flutter image superheroe]: http://achoweb.es/wp-content/uploads/2020/06/superheroe.png
 [bundle-apk]: http://achoweb.es/wp-content/uploads/2020/06/apk.jpg
-[Flutter link]: https://flutter.dev/docs/deployment/android
+[flutter link]: https://flutter.dev/docs/deployment/android
