@@ -4,7 +4,7 @@ description: A Flutter mobile app using bloc pattern with Firebase Realtime, Fir
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -13,7 +13,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   rxdart: ^0.22.0
   http:
-  firebase_messaging: ^6.0.15
+  firebase_messaging:
   shared_preferences:
 
 dev_dependencies:
@@ -23,6 +23,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
- 
   assets:
     - assets/
