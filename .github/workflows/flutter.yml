@@ -28,4 +28,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: Files APK Generated
-          path: "build/app/outputs/apk/debug/*.apk"
+          path: "build/app/outputs/apk/release/*.apk"
