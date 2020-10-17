@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
       - name: Flutter build
-        run: flutter build apk --debug --split-per-abi
+        run: flutter build apk --release --split-per-abi
       - name: Create a Release APK
         uses: actions/upload-artifact@v2
         with:
