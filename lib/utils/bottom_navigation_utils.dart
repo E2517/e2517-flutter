@@ -19,15 +19,15 @@ class _BottomNavigationPageState extends State<BottomNavigationPage> {
       items: <BottomNavigationBarItem>[
         BottomNavigationBarItem(
           icon: Icon(Icons.person),
-          title: Text('Login'),
+          label: 'Login',
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.cloud),
-          title: Text('Heroe'),
+          label: 'Heroe',
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.person_add),
-          title: Text('Register'),
+          label: 'Register',
         ),
       ],
       onTap: (index) {
