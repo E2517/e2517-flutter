@@ -3,6 +3,8 @@
 A Flutter mobile app using bloc pattern with Firebase Realtime, Firebase authentication, FCM (Push notifications) and [Cloud functions]. Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web and desktop from a single codebase. Flutter works with existing
 code, is used by developers and organizations around the world, and is free and open source.
 
+GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub
+
 ### Platforms
 
 Flutter code is powered by the world-class Dart platform, which enables
