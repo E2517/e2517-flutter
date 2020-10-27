@@ -13,6 +13,55 @@ as JavaScript for the web and Intel x64 for desktop devices.
 
 ![Dart platform diagram][]
 
+## Flutter commnads
+
+```
+flutter doctor
+```
+
+```
+flutter upgrade
+```
+
+```
+flutter channels
+```
+
+```
+flutter pub get
+```
+
+```
+flutter run --debug
+flutter run --release 
+```
+
+```
+flutter run --trace-startup --profile
+
+```
+
+```
+flutter pub get
+flutter pub run flutter_launcher_icons:main
+```
+
+A unit test tests a single function, method, or class.
+A widget test (in other UI frameworks referred to as component test) tests a single widget.
+An integration test tests a complete app or a large part of an app.
+
+```
+flutter test
+```
+
+```
+flutter build apk
+```
+
+```
+flutter build appbundle
+```
+
 ## e2517
 
 :sparkles: **Superheroes** :sparkles:
