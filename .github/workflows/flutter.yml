@@ -21,7 +21,7 @@ jobs:
           channel: "stable"
       - name: Install dependencies
         run: flutter pub get
-      - name: Flutter build
+      - name: Flutter build Android
         run: flutter build apk --release --split-per-abi
       - name: Create a Release APK
         uses: actions/upload-artifact@v2
